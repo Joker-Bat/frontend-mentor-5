@@ -179,7 +179,7 @@ body {
             left: 15%; } }
         @media only screen and (max-width: 31.25em) {
           .header__main-bg img {
-            top: -30%; } }
+            top: 0%; } }
         @media only screen and (max-width: 25em) {
           .header__main-bg img {
             top: -10%;
