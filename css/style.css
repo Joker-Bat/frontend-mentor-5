@@ -149,7 +149,7 @@ body {
       background: url("../images/bg-intro-desktop.svg");
       background-size: 100%;
       background-repeat: no-repeat;
-      background-position: 0 -200%; }
+      background-position: 0 0; }
       @media only screen and (max-width: 50em) {
         .header__main-bg {
           order: -1;
@@ -165,7 +165,7 @@ body {
         width: 100%; }
         @media only screen and (max-width: 50em) {
           .header__main-bg img {
-            top: -45%;
+            top: -20%;
             width: 60%;
             left: 5%; } }
         @media only screen and (max-width: 43.75em) {
