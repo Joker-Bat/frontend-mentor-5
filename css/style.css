@@ -174,7 +174,7 @@ body {
             width: 80%; } }
         @media only screen and (max-width: 37.5em) {
           .header__main-bg img {
-            top: -50%;
+            top: -10%;
             width: 70%;
             left: 15%; } }
         @media only screen and (max-width: 31.25em) {
