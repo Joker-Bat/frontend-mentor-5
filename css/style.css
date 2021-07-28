@@ -147,8 +147,9 @@ body {
       height: 100%;
       position: relative;
       background: url("../images/bg-intro-desktop.svg");
-      background-size: 120%;
-      background-repeat: no-repeat; }
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: 0 -200%; }
       @media only screen and (max-width: 50em) {
         .header__main-bg {
           order: -1;
