@@ -165,12 +165,12 @@ body {
         width: 100%; }
         @media only screen and (max-width: 50em) {
           .header__main-bg img {
-            top: -50%;
+            top: -45%;
             width: 60%;
             left: 5%; } }
         @media only screen and (max-width: 43.75em) {
           .header__main-bg img {
-            top: -80%;
+            top: -30%;
             width: 80%; } }
         @media only screen and (max-width: 37.5em) {
           .header__main-bg img {
